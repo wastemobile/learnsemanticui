@@ -1,4 +1,4 @@
-# Semantic UI
+hub 是 GitHub 一個更方便的終端機指令工具。
 
 ## [hub](https://hub.github.com)
 
